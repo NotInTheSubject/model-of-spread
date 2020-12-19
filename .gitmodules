@@ -1,0 +1,3 @@
+[submodule "external/mediazona-data"]
+	path = external/mediazona-data
+	url = https://github.com/mediazona/data-corona-Russia.git
